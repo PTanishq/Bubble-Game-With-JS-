@@ -1,5 +1,5 @@
 var userInput = prompt("hey, Tanishq this side. Please Enter your name")
-console.log(alert("hello " + userInput + "Let's Begin. Please click on 'OK'"))
+console.log(alert("hello " + userInput + " Let's Begin. Please click on 'OK'"))
 function makeBubble(){
     var clutter = "";
 
